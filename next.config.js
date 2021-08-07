@@ -1,3 +1,9 @@
 module.exports = {
-  reactStrictMode: true,
+  images: {
+    domains:[
+      'facebookbrand.com',
+      'links.papareact.com',
+      'firebasestorage.googleapis.com'
+    ]
+  }
 }
